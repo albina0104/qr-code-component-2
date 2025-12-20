@@ -24,8 +24,8 @@ After a break from learning frontend development, I started with this first chal
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github.com/albina0104/qr-code-component-2](https://github.com/albina0104/qr-code-component-2)
+- Live Site URL: [albina0104.github.io/qr-code-component-2/](https://albina0104.github.io/qr-code-component-2/)
 
 ## My process
 
